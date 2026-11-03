@@ -1,3 +1,13 @@
+1. Create Animal
+2. Create Mammal
+3. Create Bird, Reptile
+4. Primate, Marsupial
+5. Aviary
+6. Reptile Enclosure
+
+
+
+
 # Exercise: Exploring Inheritance in Python OOP - Building a Zoo
 
 Welcome to the "Build a Zoo" exercise! In this exercise, you'll dive into the world of inheritance in Python's object-oriented programming by creating a variety of animal classes for your zoo. By building a hierarchy of classes and exploring multiple inheritance, you'll learn how to organize and extend code efficiently.
